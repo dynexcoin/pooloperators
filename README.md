@@ -3,6 +3,7 @@ Dynex is a next-generation platform for neuromorphic computing based on a new fl
 
 - [Example config.js](https://github.com/dynexcoin/pooloperators/blob/main/config.js)
 - [CPPCMS Build Sources](https://github.com/dynexcoin/pooloperators/blob/main/cppcms.tar.gz)
+- [Database Driver Install Script](https://github.com/dynexcoin/pooloperators/blob/main/mysqlconn_install.sh)
 
 ## Example batch loop:
 
