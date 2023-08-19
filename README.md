@@ -3,8 +3,16 @@ Dynex is a next-generation platform for neuromorphic computing based on a new fl
 
 ## Latest Versions:
 
-- POOLSERVICE V.46.1 (link was provided on channel)
-- MALLOBSERVICE v.29.1 (link was provided on channel)
+- Dynex PoolService V.46.1 (link was provided on channel)
+- Dynex MallobService v.29.1 (link was provided on channel)
+
+## Requirements:
+
+PoolService v46 onwards requires C++20 on Ubuntu 20:
+```
+sudo add-apt-repository -y ppa:ubuntu-toolchain-r/test
+sudo apt install -y g++-11
+```
 
 - [Example config.js](https://github.com/dynexcoin/pooloperators/blob/main/config.js)
 - [CPPCMS Build Sources](https://github.com/dynexcoin/pooloperators/blob/main/cppcms.tar.gz)
